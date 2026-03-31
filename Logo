@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>وكالة لوجو</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>وكالة لوجو للدعاية والإعلان</header>
+
+<nav>
+<a href="index.html">الرئيسية</a>
+<a href="about.html">من نحن</a>
+<a href="services.html">خدماتنا</a>
+<a href="projects.html">مشاريعنا</a>
+<a href="contact.html">اتصل بنا</a>
+</nav>
+
+<section class="hero">
+<h1>نحو إبداع بصري يميز علامتك</h1>
+</section>
+
+<section class="section">
+<h2>مرحبا بكم في وكالة لوجو</h2>
+<p>
+نقدم أفضل خدمات التصميم والطباعة والتركيب بأعلى جودة.
+</p>
+</section>
+
+<section class="section services">
+<div class="service">تصميم جرافيكس احترافي</div>
+<div class="service">طباعة لوحات عالية الجودة</div>
+<div class="service">تركيب لوحات بإتقان</div>
+<div class="service">أعمال ديكور حديثة</div>
+</section>
+
+<section class="section gallery">
+<h2>أعمالنا</h2>
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+</section>
+
+<footer>
+جميع الحقوق محفوظة © وكالة لوجو
+</footer>
+
+<a class="whatsapp" href="https://wa.me/967XXXXXXXXX">تواصل</a>
+
+</body>
+</html>
